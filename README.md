@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ct0571&label=Profile%20views&color=0e75b6&style=flat" alt="ct0571" /> </p>
 
-- 🔭 I’m currently working on **DE Project of Retail Dataset**
 
-- 🌱 I’m currently learning **Hadoop,Spark**
 
 - 📫 How to reach me **chathurya46@gmail.com**
 

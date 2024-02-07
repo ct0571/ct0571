@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Hadoop,Spark**
 
-- 📫 How to reach me **chathurya2804@gmail.com**
+- 📫 How to reach me **chathurya46@gmail.com**
 
 - ⚡ Fun fact **I am witty and sarcastic**
 

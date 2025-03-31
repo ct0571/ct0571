@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Chathurya Thimmapuram</h1>
-<h3 align="center">I am a passionate and driven aspiring Data Engineer.</h3>
+<h3 align="center">I am a passionate and driven aspiring Java Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ct0571&label=Profile%20views&color=0e75b6&style=flat" alt="ct0571" /> </p>
 
 
 
-- 📫 How to reach me **chathurya46@gmail.com**
+- 📫 How to reach me **chathuryatr16@gmail.com**
 
 - ⚡ Fun fact **I am witty and sarcastic**
 

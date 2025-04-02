@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chathurya t" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnbkxXrNUXiuRmgj45I2u_wLcT7U9thA-T0RyyOM4gjT1h-JpCvhniNjOBrMnneumR8EM&usqp=CAU" alt="chathurya t" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chathurya16" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnbkxXrNUXiuRmgj45I2u_wLcT7U9thA-T0RyyOM4gjT1h-JpCvhniNjOBrMnneumR8EM&usqp=CAU" alt="chathurya t" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
